@@ -1,4 +1,8 @@
 # P2P File Transfer 🚀
+[![Python](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
+[![Issues](https://img.shields.io/github/issues/your-username/p2p-file-transfer)](https://github.com/your-username/p2p-file-transfer/issues)
+[![Stars](https://img.shields.io/github/stars/your-username/p2p-file-transfer?style=social)](https://github.com/your-username/p2p-file-transfer)
 
 Welcome to **P2P File Transfer**! 🎉 This is a super cool Python application that lets you share files directly with your friends over a local network, no middleman needed! Think of it as a digital carrier pigeon 🕊️, but faster and with less flapping. Built with a slick Tkinter GUI, this tool makes file sharing as easy as pie 🥧.
 
@@ -69,6 +73,10 @@ Got ideas to make this even cooler? We’d love your help! 🌟
 4. Push to the branch (`git push origin feature/awesome-idea`) 🚀
 5. Open a Pull Request 📬
 
+   
+## Open for Secondary Development 🛠️✨
+We warmly welcome everyone to take this project to new heights! 🚀 Whether you want to add fancy features, tweak the UI, or turn it into a galactic file-sharing empire, this code is your playground 🎮. Feel free to fork it, experiment, and build something epic! Share your creations with the community, and let’s make file sharing even more awesome together! 💡
+
 ## Known Issues ⚠️
 - Works best on local networks; internet support is a future dream 🌌
 - File transfer speed depends on your network’s mood 😅
@@ -77,10 +85,10 @@ Got ideas to make this even cooler? We’d love your help! 🌟
 Report bugs or suggest features in the [Issues](https://github.com/Mr-aq/p2p-file-transfer/issues) section! 🐞
 
 ## Future Plans 🚧
-- Add file encryption for extra security 🔐
-- Support for cross-network transfers 🌍
-- Dark mode for the GUI because who doesn’t love it? 🌙
-- Mobile app version? Maybe one day! 📱
+- [ ] Add file encryption for extra security 🔐
+- [ ] Support for cross-network transfers 🌍
+- [ ] Dark mode for the GUI because who doesn’t love it? 🌙
+- [ ] Mobile app version? Maybe one day! 📱
 
 ## License 📜
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Share the love! ❤️
