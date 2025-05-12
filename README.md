@@ -37,13 +37,7 @@ Ready to dive in? Follow these steps to get your P2P party started! 🎈
    git clone https://github.com/Mr-aq/p2p-file-transfer.git
    cd p2p-file-transfer
    ```
-2. **Install dependencies** (if needed):
-   ```bash
-   pip install -r requirements.txt
-   ```
-   (Note: Usually, no extra packages are needed since we use standard libraries! 🙌)
-
-3. **Run the app**:
+2. **Run the app**:
    ```bash
    python transfer_data.py
    ```
