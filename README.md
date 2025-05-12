@@ -1,8 +1,8 @@
 # P2P File Transfer 🚀
 [![Python](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
-[![Issues](https://img.shields.io/github/issues/your-username/p2p-file-transfer)](https://github.com/your-username/p2p-file-transfer/issues)
-[![Stars](https://img.shields.io/github/stars/your-username/p2p-file-transfer?style=social)](https://github.com/your-username/p2p-file-transfer)
+[![Issues](https://img.shields.io/github/issues/Mr-aq/p2p-file-transfer)](https://github.com/Mr-aq/p2p-file-transfer/issues)
+[![Stars](https://img.shields.io/github/stars/Mr-aq/p2p-file-transfer?style=social)](https://github.com/Mr-aq/p2p-file-transfer)
 
 Welcome to **P2P File Transfer**! 🎉 This is a super cool Python application that lets you share files directly with your friends over a local network, no middleman needed! Think of it as a digital carrier pigeon 🕊️, but faster and with less flapping. Built with a slick Tkinter GUI, this tool makes file sharing as easy as pie 🥧.
 
